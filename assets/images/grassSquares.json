@@ -1,0 +1,36 @@
+{"frames": [
+
+{
+	"filename": "clean",
+	"frame": {"x":1,"y":1,"w":80,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":80},
+	"sourceSize": {"w":80,"h":80}
+},
+{
+	"filename": "sowed",
+	"frame": {"x":83,"y":1,"w":80,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":80},
+	"sourceSize": {"w":80,"h":80}
+},
+{
+	"filename": "spoiled",
+	"frame": {"x":165,"y":1,"w":80,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":80},
+	"sourceSize": {"w":80,"h":80}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "grassSquares.png",
+	"format": "RGBA8888",
+	"size": {"w":246,"h":82},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f81bc65f95accd93254466f98d696187:a7c20462eb5a136f22d9f2e9c32221c6:3454e80c2cf115554e552480b16dfa11$"
+}
+}

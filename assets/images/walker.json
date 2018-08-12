@@ -1,0 +1,92 @@
+{"frames": [
+
+{
+	"filename": "attack_1",
+	"frame": {"x":369,"y":1,"w":35,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":66},
+	"sourceSize": {"w":35,"h":66}
+},
+{
+	"filename": "attack_2",
+	"frame": {"x":406,"y":1,"w":29,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":29,"h":67},
+	"sourceSize": {"w":29,"h":67}
+},
+{
+	"filename": "attack_3",
+	"frame": {"x":1,"y":1,"w":45,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":68},
+	"sourceSize": {"w":45,"h":68}
+},
+{
+	"filename": "run_1",
+	"frame": {"x":278,"y":1,"w":44,"h":61},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":61},
+	"sourceSize": {"w":44,"h":61}
+},
+{
+	"filename": "run_2",
+	"frame": {"x":232,"y":1,"w":44,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":62},
+	"sourceSize": {"w":44,"h":62}
+},
+{
+	"filename": "run_3",
+	"frame": {"x":48,"y":1,"w":44,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":65},
+	"sourceSize": {"w":44,"h":65}
+},
+{
+	"filename": "run_4",
+	"frame": {"x":94,"y":1,"w":44,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":65},
+	"sourceSize": {"w":44,"h":65}
+},
+{
+	"filename": "run_5",
+	"frame": {"x":140,"y":1,"w":44,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":65},
+	"sourceSize": {"w":44,"h":65}
+},
+{
+	"filename": "run_6",
+	"frame": {"x":324,"y":1,"w":43,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":65},
+	"sourceSize": {"w":43,"h":65}
+},
+{
+	"filename": "stand",
+	"frame": {"x":186,"y":1,"w":44,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":65},
+	"sourceSize": {"w":44,"h":65}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "walker.png",
+	"format": "RGBA8888",
+	"size": {"w":436,"h":70},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:25fed0e62a15fefa65313f956d1b3318:8643dd07e2c77605d78d67877b0120ef:f88fd930c3ec52f585d0c1bc69f4580c$"
+}
+}

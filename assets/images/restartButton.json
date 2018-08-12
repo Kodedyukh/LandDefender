@@ -1,0 +1,28 @@
+{"frames": [
+
+{
+	"filename": "down",
+	"frame": {"x":1,"y":1,"w":300,"h":140},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":140},
+	"sourceSize": {"w":300,"h":140}
+},
+{
+	"filename": "out",
+	"frame": {"x":303,"y":1,"w":300,"h":140},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":140},
+	"sourceSize": {"w":300,"h":140}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "restartButtons.png",
+	"format": "RGBA8888",
+	"size": {"w":604,"h":142},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f9a61f44dc932bcb4341b0880060c1e9:d69c26267d02fc22116579c832f17137:ff3eb8b9837e9500117d697d216d442d$"
+}
+}

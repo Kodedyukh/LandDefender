@@ -1,0 +1,28 @@
+{"frames": [
+
+{
+	"filename": "down",
+	"frame": {"x":1,"y":1,"w":114,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":59},
+	"sourceSize": {"w":114,"h":59}
+},
+{
+	"filename": "out",
+	"frame": {"x":117,"y":1,"w":114,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":59},
+	"sourceSize": {"w":114,"h":59}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "knightBut.png",
+	"format": "RGBA8888",
+	"size": {"w":232,"h":61},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:cb7d2b3cb8449cbba3a8d4bbb3f3446c:5b4e9858840091a3624d59a735cc5b29:120ae813278cd57d2d6387964763d9bd$"
+}
+}
